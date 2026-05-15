@@ -7,6 +7,7 @@
 ![GitHub Repo Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 This project aims to build a deep-learning model that predicts cancer types from gene-expression profiles using RNA-seq data from The Cancer Genome Atlas (TCGA). It is done within the scope of the Deep Learning course of the ZHAW ACLS Master.
 
